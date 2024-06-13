@@ -253,12 +253,7 @@ tag_elements
 nltk.download('maxent_ne_chunker')
 nltk.download('words')
 
-"""#Different Types of Encoding
 
-Text input --> Vectors
-
-#### (1)One Hot Encoded
-"""
 
 
 
